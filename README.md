@@ -3,7 +3,7 @@ a collection of repos for fisheye undistort and stitch
 
 <table>  
     <tr>
-        <td>library</td>
+        <td>repo</td>
         <td>functions</td>
         <td>comments</td>
     </tr>
@@ -13,14 +13,14 @@ a collection of repos for fisheye undistort and stitch
         <td>easy to use</td>
     </tr>
     <tr>
-        <td>https://github.com/kuaikuaikim/DFace</td>
+        <td>https://github.com/delphinus1024/fisheye_undistort</td>
         <td>undistort</td>
-        <td>DFace</td>
+        <td>under estimation</td>
     </tr>  
     <tr>
-        <td>https://github.com/kuaikuaikim/DFace</td>
+        <td>https://github.com/HLearning/fisheye</td>
         <td>undistort</td>
-        <td>DFace</td>
+        <td>easy to use</td>
     </tr>  
     <tr>
         <td>https://github.com/Hielamon/FishEyeCodeMaterials-Stitcher</td>
@@ -33,8 +33,8 @@ a collection of repos for fisheye undistort and stitch
         <td>not very effective for fisheye</td>
     </tr>
     <tr>
-        <td>https://github.com/dlunion/mtcnn</td>
+        <td>https://github.com/drNoob13/fisheyeStitcher</td>
         <td>stitch</td>
-        <td>a training reproduction similar to CongWeiLin</td>
+        <td>should modify from 2 to 4</td>
     </tr>
 </table>
