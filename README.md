@@ -25,6 +25,11 @@ classical repos
         <td>calibration</td>
         <td>matlab OCamCalib Toolbox</td>
     </tr>
+    <tr>
+        <td>https://github.com/robwhess/opensift</td>
+        <td>stitch</td>
+        <td>opensift</td>
+    </tr>
 </table>
 
 
