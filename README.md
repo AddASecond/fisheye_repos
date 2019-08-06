@@ -26,6 +26,11 @@ classical repos
         <td>matlab OCamCalib Toolbox</td>
     </tr>
     <tr>
+        <td>https://github.com/carlosferrazza/Python-Calibration</td>
+        <td>calibration</td>
+        <td>python implementation of opencv+ocamlib</td>
+    </tr>
+    <tr>
         <td>https://github.com/robwhess/opensift</td>
         <td>stitch</td>
         <td>opensift</td>
